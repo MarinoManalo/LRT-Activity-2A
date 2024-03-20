@@ -1,0 +1,24 @@
+D:\5 School\Visual Basic\LRT\LRT\LRT\bin\Debug\LRT.exe.config
+D:\5 School\Visual Basic\LRT\LRT\LRT\bin\Debug\LRT.exe
+D:\5 School\Visual Basic\LRT\LRT\LRT\bin\Debug\LRT.pdb
+D:\5 School\Visual Basic\LRT\LRT\LRT\bin\Debug\LRT.xml
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.vbproj.AssemblyReference.cache
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.Form1.resources
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.Resources.resources
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.vbproj.GenerateResource.cache
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.vbproj.CoreCompileInputs.cache
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.exe
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.xml
+D:\5 School\Visual Basic\LRT\LRT\LRT\obj\Debug\LRT.pdb
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\bin\Debug\LRT.exe.config
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\bin\Debug\LRT.exe
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\bin\Debug\LRT.pdb
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\bin\Debug\LRT.xml
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.vbproj.AssemblyReference.cache
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.Form1.resources
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.Resources.resources
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.vbproj.GenerateResource.cache
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.vbproj.CoreCompileInputs.cache
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.exe
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.xml
+D:\5 School\Visual Basic\Manalo, Marino(LRT)\LRT\LRT\obj\Debug\LRT.pdb
